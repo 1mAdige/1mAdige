@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatih Elbeyoğlu</h1>
+<h1 align="center">Hi there, I'm Fatih - aka ImAdige 👋</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1madige&label=Profile%20views&color=0e75b6&style=flat" alt="1madige" /> </p>
