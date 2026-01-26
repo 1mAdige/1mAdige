@@ -1,71 +1,87 @@
-<h1 align="center">Hi, I'm Fatih 👋</h1>
-<h3 align="center">Frontend-focused Web Developer from Turkey</h3>
+<h1 align="center">Merhaba, ben Fatih 👋</h1>
+<h3 align="center">Bilgi Teknolojileri Uzmanı | Web Uygulama Geliştirici</h3>
 
 <p align="center">
-  <a href="https://www.fatihelbeyoglu.com.tr">Website</a> •
+  <a href="https://www.fatihelbeyoglu.com.tr">Web Sitem</a> •
   <a href="https://www.fatihelbeyoglu.com.tr/blog">Blog</a> •
   <a href="https://linkedin.com/in/fatih-elbeyoglu">LinkedIn</a> •
-  <a href="mailto:fth.elb@gmail.com">Mail</a>
+  <a href="mailto:fth.elb@gmail.com">E-posta</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1madige&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=1madige&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 Hakkımda
 
-- Frontend ağırlıklı web geliştiriciyim  
-- PHP & SQL tabanlı projeler geliştiriyorum  
-- Modern frontend framework’lerine (React / Angular) geçiş sürecindeyim  
-- Kendi blogumda teknik içerikler yazıyorum  
+Bilgi Teknolojileri alanında, **kurumsal ihtiyaçlara yönelik yazılım ve sistem çözümleri** geliştiren bir **BT Uzmanıyım**.  
+Web tabanlı uygulamalar, veritabanı yönetimi ve sistem entegrasyonları üzerine çalışıyor; **iş süreçlerini dijitalleştiren, sürdürülebilir ve ölçeklenebilir çözümler** üretmeye odaklanıyorum.
 
----
-
-## 🔭 Current Focus
-
-- **PHP + MS SQL** ile listeleme & CRUD sistemleri  
-- **React & Angular** ile modern frontend mimarileri  
-- Temiz kod, okunabilirlik ve performans
+Geliştirdiğim projelerde;
+- Kurumsal gereksinimleri analiz etmeye  
+- Güvenli ve performanslı sistemler tasarlamaya  
+- Uzun vadede bakım ve geliştirmeye açık mimariler kurmaya  
+öncelik veririm.
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Uzmanlık Alanları
+
+- Kurumsal Web Uygulamaları  
+- PHP & SQL tabanlı sistemler  
+- CRUD, listeleme ve raporlama çözümleri  
+- Veritabanı tasarımı ve optimizasyonu  
+- Frontend & Backend entegrasyonu  
+
+---
+
+## 🔭 Güncel Çalışmalar
+
+- **PHP & MS SQL** ile kurumsal listeleme ve yönetim sistemleri  
+- Modern frontend teknolojileri (**React, Angular**)  
+- Performans, güvenlik ve temiz kod odaklı geliştirme  
+
+---
+
+## 🛠 Kullanılan Teknolojiler
 
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular" />
 </p>
 
-### Backend & Database
+### Backend & Veritabanı
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,python" />
 </p>
 
-### DevOps & Tools
+### Sistem & Altyapı
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git" />
 </p>
 
 ---
 
-## 📌 Featured Project
+## 📌 Öne Çıkan Proje
 
-🔹 **PHP – MS SQL Listing System**  
+🔹 **PHP – MS SQL Listeleme Sistemi**  
+Kurumsal veri yönetimi ve listeleme ihtiyaçları için geliştirilmiş örnek uygulama.  
+
 👉 https://github.com/1mAdige/PHP-MsSQL-ile-Listeleme  
 
 ---
 
-## ✍️ Articles & Writing
+## ✍️ Teknik Yazılar
 
 - 📝 Blog: https://www.fatihelbeyoglu.com.tr/blog  
-- Teknik notlar, örnek projeler ve öğrenme süreci
+- Yazılım geliştirme, sistemler ve öğrenme notları
 
 ---
 
-## 📫 Contact
+## 📫 İletişim
 
-- 📧 Mail: **fth.elb@gmail.com**
-- 🌐 Website: https://www.fatihelbeyoglu.com.tr
+- 📧 E-posta: **fth.elb@gmail.com**
+- 🌐 Web: https://www.fatihelbeyoglu.com.tr
 - 💼 LinkedIn: https://linkedin.com/in/fatih-elbeyoglu
