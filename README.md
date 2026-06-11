@@ -67,7 +67,7 @@ Geliştirdiğim projelerde;
 ## 📌 Öne Çıkan Proje
 
 🔹 **Android VideoFetcher**  
-👉 [https://github.com/1mAdige/PHP-MsSQL-ile-Listeleme  ](https://github.com/1mAdige/Android-VideoFetcher/)
+👉 https://github.com/1mAdige/Android-VideoFetcher
 
 ---
 
