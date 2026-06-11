@@ -66,10 +66,8 @@ Geliştirdiğim projelerde;
 
 ## 📌 Öne Çıkan Proje
 
-🔹 **PHP – MS SQL Listeleme Sistemi**  
-Kurumsal veri yönetimi ve listeleme ihtiyaçları için geliştirilmiş örnek uygulama.  
-
-👉 https://github.com/1mAdige/PHP-MsSQL-ile-Listeleme  
+🔹 **Android VideoFetcher**  
+👉 [https://github.com/1mAdige/PHP-MsSQL-ile-Listeleme  ](https://github.com/1mAdige/Android-VideoFetcher/)
 
 ---
 
